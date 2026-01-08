@@ -7,9 +7,11 @@ This repository contains a practical demonstration of **BitLocker encryption** o
 - Step-by-step instructions with screenshots
 ## Video Tutorial
 For a visual guide, watch the accompanying YouTube video:  
-[My video link](https://youtu.be/Oi6IWjLwv_Q?si=BDJxl2gxc9Af8DoS)
-For PDF Version:
-[PDF Version](BitLocker.pdf)
+[Watch on YouTube](https://youtu.be/Oi6IWjLwv_Q?si=BDJxl2gxc9Af8DoS)
+
+For the PDF version of the guide, click here:  
+[BitLocker Guide PDF](BitLocker.pdf)
+
 ## How to Use
 1. Follow the step-by-step instructions in the repository.
 2. Refer to the screenshots and commands provided.
